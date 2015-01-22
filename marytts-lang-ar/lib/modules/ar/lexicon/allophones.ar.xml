@@ -11,7 +11,7 @@
 
 
 	<consonant ph="ʔ" ctype="s" cplace="g" cvox="+"/>
-<consonant ph="b" ctype="s" cplace="l" cvox="+"/>
+	<consonant ph="b" ctype="s" cplace="l" cvox="+"/>
 	<consonant ph="t" ctype="s" cplace="a" cvox="-"/>
 	<consonant ph="θ" ctype="f" cplace="a" cvox="-"/>
 	<consonant ph="ʒ" ctype="s" cplace="p" cvox="+"/>
